@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+body {
+    display: grid;
+    grid-template-columns: auto 50% 50%;
+    gap: 5px;
+    font-family: 'Inter', sans-serif;
+}
+
+.div1{
+    display: grid;
+    grid-template-columns: 6fr 8fr ;
+}
+.div2{
+    background-color: #ffc700;
+}
+.div2 > div{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    font-size: 48px;
+
+}
+
+   

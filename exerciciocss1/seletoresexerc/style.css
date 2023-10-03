@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#Titulo {
+    color: red;
+}
+
+.Subtitulo-1 {
+    color: green;
+}
+
+.Subtitulo-2 {
+    color: blue;
+}
+ body{
+    font-family: monospace;
+}
+ 
+   

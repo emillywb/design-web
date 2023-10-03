@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(15, 15, 15);
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    text-align: justify;
+    background-image: url(img/fundo-de-papel-de-parede-colorido-ia-generativa-multicolorida.jpg);
+}
+

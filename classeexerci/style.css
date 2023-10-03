@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+#titulo1 {
+    color: rgb(14, 13, 13);
+    text-align: center;
+    background-color: rgb(254, 255, 254);
+    border: 2px solid;
+    border-radius: 50px;
+}
+
+.solar {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.wind {
+    background-color: bisque;
+    color: black;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.hydro {
+    background-color: royalblue;
+    color: black;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.bioenergy {
+    background-color: greenyellow;
+    color: black;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.geothermal {
+    background-color: brown;
+    color: black;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.borda {
+    border-color: white;
+}
+.borda2 {
+    border-color: white;
+}
+ .p1 {
+    color: white;
+ }
+ .p2 {
+    color: white;
+ }
+ .p3 {
+    color: white;
+ }
+ .p4 {
+    color: white;
+ }
+ .p5 {
+    color: white;
+ }
+
+ body{
+    background-image: url(img/via-lactea.jpg);
+    font-family: monospace;
+}
